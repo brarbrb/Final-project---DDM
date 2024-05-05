@@ -3,7 +3,8 @@ Project on Spark (includes parts A and B) Distributed Database Management
 (Done in pair with Daniel Maor)
 
 **Part A**
-Dataset: includes data on households and their viewing habits. Full description is in dataset.txt file
+
+Dataset: includes data on households and their viewing habits and consists out of 4 files. Full description is in dataset.txt file
 
 Tasks overview:
 * Spam Detection: Identify and handle malicious data entries inserted by a rival association using Spark. This involves computational detection based on specific conditions related to viewing patterns and program characteristics.
