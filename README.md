@@ -3,6 +3,7 @@ Project on Spark (includes parts A and B) Distributed Database Management
 (Done in pair with Daniel Maor)
 
 **Part A**
+Dataset: includes data on households and their viewing habits. Full description is in dataset.txt file
 
 Tasks overview:
 * Spam Detection: Identify and handle malicious data entries inserted by a rival association using Spark. This involves computational detection based on specific conditions related to viewing patterns and program characteristics.
@@ -10,6 +11,7 @@ Tasks overview:
 * Design and Deployment of Database: Design a database that efficiently manages and retrieves data across different Designated Market Areas (DMAs) without full replication due to budget constraints. This includes calculating the popularity of various genres within each DMA and adjusting for the wealth of the DMA.
 * Implementation via Spark: Execute the database design using PySpark, ensuring the system is scalable and data is accessible across different servers.
 
+I dive deeper in the tasks in PartA.txt file
 
 **Part B**
 
@@ -26,3 +28,6 @@ In this part the task is to apply advanced data processing techniques and derive
 *Dynamic Data Analysis - Streaming:*
 Utilize Spark Streaming to process real-time viewing data from Kafka, repeating the viewing analysis for each data batch.
 Focus specifically on analyzing the '3rds subset' for each cluster during streaming to understand dynamic viewing habits.
+
+I dive deeper in the tasks in PartB.txt file
+
